@@ -1,3 +1,6 @@
+本库为ORB-SLAM2所适用的Pangolin版本。
+
+
 What is Pangolin {#mainpage}
 ====================================
 
